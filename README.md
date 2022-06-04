@@ -31,7 +31,7 @@ uname = "Your_name"
 ```
 sudo python3 Jarvis.py
 ```
-**Windows and other Systems </br>
+**Windows and other Systems** </br>
 *Use python interpreter to run bot application*
 
 ---
